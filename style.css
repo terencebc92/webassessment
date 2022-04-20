@@ -126,7 +126,7 @@ nav a {
 
 .informationSection {
   padding: 32px 24px;
-  align-items: flex-start;
+  justify-content: space-between;
 }
 
 .informationCol {
@@ -143,15 +143,23 @@ nav a {
 
 /* Information panel sub-section */
 
+#infoPanel {
+  align-items: flex-end;
+}
+
+.informationPanelItem {
+  width: 100%;
+}
+
 .informationPanelItem img {
-  width: 35%;
+  flex-basis: 35%;
   height: auto;
   padding: 16px;
 }
 
 .panelItemText {
   justify-content: center;
-  width: 65%;
+  margin-right: auto;
 }
 
 .panelItemText > h5 {
