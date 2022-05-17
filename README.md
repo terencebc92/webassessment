@@ -1,4 +1,5 @@
 # webassessment
+# Github page - https://terencebc92.github.io/webassessment/index.html
 
 ## What did you like about this project?
 The project gave me ample opportunity to practice my HTML and CSS -especially flexboxes and media queries- as the requirements were extensive. The project was also done under time pressure so I liked that I had to be as efficient as possible with my time and prioritize the tasks. Before writing the code for a given section, I also liked planning the layout and deciding how many flexboxes would be required for the content. 
